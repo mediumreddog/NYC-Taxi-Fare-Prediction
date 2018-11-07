@@ -1,0 +1,9 @@
+data/sample_submission.csv
+data/test.csv
+data/train.csv
+data/train_preprocessed.csv
+data/test_preprocessed.csv
+
+preprocessing
+
+.DS_Store
